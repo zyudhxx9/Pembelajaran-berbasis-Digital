@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+ }
+
+body{
+    background: #222;
+
+}
+
+.cover{
+    background: orange;
+    width: 550px;
+    max-width: 100%;
+    margin: 90px auto 0;
+    border-radius: 25px;
+    padding: 15px;
+ }
+
+.cover h1{
+    color: black;
+    text-align: left;
+    font-size: 30px;
+    border-bottom: 2px solid brown;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.data{
+    padding-top: 20px;
+ }
+
+.data label{
+    color: black;
+    padding-top: px;
+ }
+
+.data input{
+    width: 100%;
+    padding: 10px;
+
+}
+
+ .data a{
+    background: cyan;
+    color: #222;
+    font-weight: 500;
+    width: 150px;
+    border: 0;
+    padding: 10px;
+    margin: 20px auto 0;
+    border-radius: 4px;
+    cursor: pointer;
+    display: block;
+ }
